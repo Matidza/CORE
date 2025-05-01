@@ -1,1 +1,1 @@
-PORT=8000 gunicorn CORE.wsgi:application --bind 0.0.0.0:$PORT
+web: bash build.sh && gunicorn CORE.wsgi:application --bind 0.0.0.0:$PORT
