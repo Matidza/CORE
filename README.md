@@ -3,7 +3,7 @@
 
 # 🏫 CORE — Django REST API for South African Schools Data
 
-This is the **backend Django REST API** that powers the school data functionality for the [Admission Web App](https://github.com/Matidza/School-Front). It handles the **storage, retrieval, and management of South African school profiles**, which are created when a school signs up via the frontend hosted at [admission.up.railway.app](https://admission.up.railway.app).
+This is the **backend Django REST API** that powers the school data functionality for the [Admission Web App](https://github.com/Matidza/School-Front). It handles the **storage, retrieval, and management of South African school profiles**, which are created when a school signs up via the frontend hosted at [admission-schools.up.railway.app](https://admission-schools.up.railway.app/).
 
 ---
 
